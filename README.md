@@ -1,6 +1,8 @@
-## Hi there, my name is Eduardo Ceron 👋
+# Hi there, my name is Eduardo Ceron 👋
 
-### iOS Developer 📱
+## iOS Developer 📱
+
+### WHO I AM
 
 Hola, mi nombre es Eduardo Ceron y soy egresado del UNITEC como ingeniero en sistemas computacionales.
 <!--I'm currenttly learning swiftUI to became a professional iOS Developer and also I'm working on my own projects using only SwiftUI-->
@@ -10,9 +12,15 @@ Me incursioné en el mundo del desarrollo de las apps a finales del 2020 en plen
 
 En mis repositorios subiré todos los proyectos que realice en cursos y tutoriales así como mis proyectos personales para que cualquier persona pueda consultar código y aprender. En el archivo "readme.md" de cada proyecto podrás visualizar de manera general los conocimientos que se aplican para la creación de la app.
 
-## Algunas de mis habilidades y conocimientos:
+### WHAT I DO
 
-## Puedes contactarme en el correo:
+#### APPS DE MI FORMACION
+
+#### MY OWN APPS
+
+### WORK WITH ME
+
+### GET IN TOUCH
 javierespinoza90@gmail.com
 
 
