@@ -1,16 +1,16 @@
-# Hi there, my name is Eduardo Ceron 👋
+# Eduardo J. Ceron 🧔🏻
 
 ## iOS Developer 📱
 
-### WHO I AM
+![web](https://user-images.githubusercontent.com/93167790/139749944-2b6ad216-bfc5-45d4-9c59-6ec55a9d2364.png)
 
-Hola, mi nombre es Eduardo Ceron y soy egresado del UNITEC como ingeniero en sistemas computacionales.
+### Un poco de mi
+
+Como habrán notado me llamo Eduardo Ceron y soy ingeniero en sistemas computacionales egresado del UNITEC desde el 2014.
 <!--I'm currenttly learning swiftUI to became a professional iOS Developer and also I'm working on my own projects using only SwiftUI-->
-Actualmente me encuentro estudiando el lenguaje de programación Swift con el nuevo framework de apple "SwiftUI" con el fin de convertirme en un desarrollador profesional de aplicaciones nativas para iOS. A la par estoy realizando pequeños proyectos personales para publicar en la AppStore.
+Soy desarrollador de aplicaciones nativas para iOS y me encuentro en constante aprendizaje es por eso que creo este espacio para compartirles los pequeños proyectos que he creado tomando cursos y tutoriales así como mis proyectos personales con fines educativos para que cualquier persona pueda consultar código y aprender.
 
-Me incursioné en el mundo del desarrollo de las apps a finales del 2020 en plena pandemia tratando de buscar nuevas habilidades y conocimiento; y desde entonces me he dedicado a especializarme en el desarrollo de aplicaciones nativas de iOS utilizando el lenguaje oficial de apple "swift"
-
-En mis repositorios subiré todos los proyectos que realice en cursos y tutoriales así como mis proyectos personales para que cualquier persona pueda consultar código y aprender. En el archivo "readme.md" de cada proyecto podrás visualizar de manera general los conocimientos que se aplican para la creación de la app.
+En el archivo "readme.md" de cada proyecto podrás visualizar la descripción de la app así como los conocimientos que se aplicaron para su creación.
 
 ### WHAT I DO
 
