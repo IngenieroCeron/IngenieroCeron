@@ -14,14 +14,16 @@
 <hr>
 
 <h4>⚒&nbsp;&nbsp;&nbsp;My Development Toolbelt</h4>
-   ![App Store](https://img.shields.io/static/v1?style=for-the-badge&message=App+Store&color=0D96F6&logo=App+Store&logoColor=FFFFFF&label=)
-   ![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=)
-   ![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
-   ![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
-   ![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
-   ![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
-   ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
-   ![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
+
+[![Apple](https://img.shields.io/badge/iOS-999999?style=for-the-badge&logo=apple&logoColor=white&labelColor=101010)]()
+![Apple](https://img.shields.io/static/v1?style=for-the-badge&message=Apple&color=000000&logo=Apple&logoColor=FFFFFF&label=)
+![App Store](https://img.shields.io/static/v1?style=for-the-badge&message=App+Store&color=0D96F6&logo=App+Store&logoColor=FFFFFF&label=)
+![Swift](https://img.shields.io/static/v1?style=for-the-badge&message=Swift&color=F05138&logo=Swift&logoColor=FFFFFF&label=)
+![Xcode](https://img.shields.io/static/v1?style=for-the-badge&message=Xcode&color=147EFB&logo=Xcode&logoColor=FFFFFF&label=)
+![Firebase](https://img.shields.io/static/v1?style=for-the-badge&message=Firebase&color=222222&logo=Firebase&logoColor=FFCA28&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=)
+![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
+![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=000000&logo=JSON&logoColor=FFFFFF&label=)
 
 
 <!--
