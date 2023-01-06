@@ -27,18 +27,30 @@
 
 <hr>
 
-Here's the list of my apps 📱 developed by courses, tutorials and own.
+<h2 align='center'>My Apps</h2>
 
-### Apps desarrolladas en [iOS Development Bootcamp](https://www.udemy.com/share/101WsW3@WON0t2ns7TIpksOjUy0PDEDOHDQibQ3XuC1unnouLgW6Yy9RrsAo9XBO4bTfahZEyQ==/):
+Here's a list of my apps 📱 developed by courses, tutorials and own.
+
+### Apps de curso [iOS Development Bootcamp](https://www.udemy.com/share/101WsW3@WON0t2ns7TIpksOjUy0PDEDOHDQibQ3XuC1unnouLgW6Yy9RrsAo9XBO4bTfahZEyQ==/):
 | Name | Description |
 | :-- | :-- |
 🎲 [SwiftUI Dicee](https://github.com/IngenieroCeron/DadoSwiftUI) | App para lanzar dados aleatoriamente  |
 📰 [SwiftUI API HackerNews](https://github.com/IngenieroCeron) | App con petición HTTP usando URLSession |
 
-### Apps desarrolladas en [SwiftUI Masterclass](https://www.udemy.com/share/102drs3@R3xUDbGedqt0u7TxkI36kdEkW1DxI_ckPaQeY7sX0jd6g8zuSFjXX0DlEpb_tveQtw==/):
+### Apps de curso [SwiftUI Masterclass](https://www.udemy.com/share/102drs3@R3xUDbGedqt0u7TxkI36kdEkW1DxI_ckPaQeY7sX0jd6g8zuSFjXX0DlEpb_tveQtw==/):
 | Name | Description |
 | :-- | :-- |
-🌃 [SwiftUI AsyncImage](https://github.com/IngenieroCeron/AsyncImage) | Camera Kit  |
+🌃 [SwiftUI AsyncImage](https://github.com/IngenieroCeron/AsyncImage) | App to load a remote image from a URL.  |
+🌃 [SwiftUI Restart App](https://github.com/IngenieroCeron/Restart-App) | App with advance design, gestures and animations.  |
+🌃 [SwiftUI Pinch & Zoom](https://github.com/IngenieroCeron/Pinch-and-Zoom-App) | App with advanced Pinch and Zoom features with SwiftUI gestures  |
+🌃 [SwiftUI Fructus App](https://github.com/IngenieroCeron/Fructus-App) | Colorful encyclopedia of fruits with structures  |
+🌃 [SwiftUI Africa App](https://github.com/IngenieroCeron/Africa-App) | App using: JSON, mapkit, grid layouts, video player and more  |
+🌃 [SwiftUI E-Football](https://github.com/IngenieroCeron/Football-Ecommerce-App) | E-commerce app prototype  |
+🌃 [SwiftUI Devote App](https://github.com/IngenieroCeron/Devote-App) | A task manager iOS application with Core Data integration.  |
+🌃 [SwiftUI Avocado Recipes](https://github.com/IngenieroCeron/Avocado-Recipes-App) | The Avocados app has a fairly complex UI in SwiftUI  |
+🌃 [SwiftUI Slot Machine](https://github.com/IngenieroCeron/Slot-Machine-Game) | A fun Slot Machine minigame app |
+🌃 [SwiftUI To-Do App](https://github.com/IngenieroCeron/To-Do-App) | Todo App with Core Data and persistent data storage  |
+🌃 [SwiftUI Honeymoon App](https://github.com/IngenieroCeron/Honeymon-App) | An iOS app with Tinder-like gestures  |
 
 ### Apps propias:
 | Name | Description |
@@ -47,7 +59,7 @@ Here's the list of my apps 📱 developed by courses, tutorials and own.
 🔍 [SwiftUI Listin](https://github.com/IngenieroCeron/List-in) | App para crear listas con precios usando CoreData. [App Store](https://apps.apple.com/mx/app/list%C3%ADn/id1635413931) |
 🍻 [SwiftUI Padrink](https://github.com/IngenieroCeron/Padrink) | App de mini juegos para beber en reuniones. |
 
-### Apps desarrolladas en [Platzi](https://platzi.com/cursos/swiftui-apps-ios/):
+### App de [Platzi](https://platzi.com/cursos/swiftui-apps-ios/):
 | Name | Description |
 | :-- | :-- |
 🎮 [SwiftUI GameStream](https://github.com/IngenieroCeron/GameStream) | App con Login, perfil, API, DetailView, Videos. |
